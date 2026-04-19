@@ -8,7 +8,7 @@ self-taught developer and music producer from Turkey. I’m basically living in 
 * **🎨 Visuals:** Designing Noir/Dreamcore aesthetics, making motion graphics and fragmovies in **After Effects**. 
 
 ---
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Flaxe+;Click+my+profile+to+see+my+projects;If+u+like+my+projects;Dont+Forget+to+press+star)](https://git.io/typing-svg)
 ### Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
