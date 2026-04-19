@@ -1,11 +1,11 @@
-# Hi, I'm Yağız (aka Flaxe) ⚡
+# Hi, I'm Flaxe-max (aka Flaxe) ⚡
 
-16-yo self-taught developer and music producer from Turkey. I’m basically living in a loop between writing scripts and making beats. 
+self-taught developer and music producer from Turkey. I’m basically living in a loop between writing scripts and making beats. 
 
 ### What I'm Up To
 * **💻 Dev:** Currently grinding on **PHENOM: Fall of Novara** in Unreal Engine 5. Also messing around with C# and Python projects.
-* **🎵 Music:** Cooking melancholic boom-bap & dark vibes in FL Studio. If it doesn't sound like *Hayalet Islığı*, I'm not interested.
-* **🎨 Visuals:** Designing Noir/Dreamcore aesthetics and making motion graphics in **After Effects**. 
+* **🎵 Music:** Cooking famous turkish beats templates.
+* **🎨 Visuals:** Designing Noir/Dreamcore aesthetics, making motion graphics and fragmovies in **After Effects**. 
 
 ---
 
