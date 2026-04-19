@@ -11,3 +11,8 @@ self-taught developer and music producer from Turkey. I build things with code a
 Always chasing the next loop, whether it's in a script or a beat.
 
 Current Stack: C#, C++, Python, Unity, Unreal Engine 5, React Native and also Frontend.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
