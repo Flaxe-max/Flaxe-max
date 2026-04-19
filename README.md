@@ -5,14 +5,14 @@
 ### What I'm Up To
 * **💻 Dev:** Currently grinding on **PHENOM: Fall of Novara** in Unreal Engine 5. Also messing around with C# and Python projects.
 * **🎵 Music:** Cooking melancholic boom-bap & dark vibes in FL Studio. If it doesn't sound like *Hayalet Islığı*, I'm not interested.
-* **🎨 Visuals:** Into Noir, Weirdcore, and Dreamcore aesthetics. I like my designs like my beats: dark and atmospheric.
+* **🎨 Visuals:** Designing Noir/Dreamcore aesthetics and making motion graphics in **After Effects**. 
 
 ---
 
 ### Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,react,dotnet,unity,unreal,discord,git,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,react,dotnet,unity,unreal,ae,ps,figma,discord,git" />
   </a>
 </p>
 
